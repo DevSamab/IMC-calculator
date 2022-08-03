@@ -1,3 +1,3 @@
 # IMC-calculator
 
-[Clique aqui](https://devsamab.github.io/IMC-calculator/) para acessar a calculadora de Índice de Massa Corporal.
+<p>Para acessar a calculadora de índice de massa corporal <a href="https://devsamab.github.io/IMC-calculator/" target="_blank" rel="external">clique aqui</a>.</p>
